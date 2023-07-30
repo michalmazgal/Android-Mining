@@ -12,9 +12,9 @@
 		"time-limit": 600
 	}],
 	
-	"user": "RKeHVYkGp6L9LM9vjvrZtKSVwysV2aMHhJ.1",
+	"user": "RKeHVYkGp6L9LM9vjvrZtKSVwysV2aMHhJ.X11T",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
