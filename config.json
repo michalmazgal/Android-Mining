@@ -3,7 +3,7 @@
 	{
 	"name": "eu.luckpool.net",
         "url": "stratum+tcp://eu.luckpool.net:3956",
-	"timeout": 150
+	"timeout": 60
 	}],
 	
 	"user": "RKeHVYkGp6L9LM9vjvrZtKSVwysV2aMHhJ.HNS3",
